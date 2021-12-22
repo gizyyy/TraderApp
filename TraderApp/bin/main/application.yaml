@@ -1,0 +1,6 @@
+active-mq:
+    broker-url: tcp://localhost:61616
+    companyAddedTopic: companyAddedTopic
+    contractAddedTopic: contractAddedTopic
+    user: admin
+    password: admin
