@@ -14,7 +14,7 @@ model (non-directional and not necesarrily connected nodes in graph.)
 Tags:
 
 Graph Data Structure Modelling
-Java 11
+Java 17
 Spring Boot
 OpenAPI
 Filter
