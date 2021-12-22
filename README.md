@@ -4,7 +4,7 @@ This project requires a local Apache MQ installation. Please check EventListener
 
 Application provides a solution for companies want trade with each other. Companies can trade directly or can trade via man-in-middle companies.
 TradeResource provides endpoints for adding company, adding connection
-between companies, returning the possible paths between companies to trade returning if two company can trade with each other (directly or via man
+between companies, returning the possible paths between companies to trade, returning if two company can trade with each other (directly or via man
 in middles).
 
 Datas are being persisted to h2 memory database and also a datastructure
